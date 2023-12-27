@@ -1,0 +1,204 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Mission
+</name>
+</assembly>
+<members>
+<member name="P:Mission.My.Resources.Resources.ResourceManager">
+	<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member><member name="P:Mission.My.Resources.Resources.Culture">
+	<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member><member name="T:Mission.My.Resources.Resources">
+	<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member><member name="T:Mission.MissionDataSet.AtelierDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Mission.MissionDataSet.Atelier_RecDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Mission.MissionDataSet.DirectionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Mission.MissionDataSet.EmployéDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Mission.MissionDataSet.Mission_RecDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Mission.MissionDataSet.MissionsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Mission.MissionDataSet.ParticiperDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Mission.MissionDataSet.ServiceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Mission.MissionDataSet.UtilisateurDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Mission.MissionDataSet.AtelierRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Mission.MissionDataSet.Atelier_RecRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Mission.MissionDataSet.DirectionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Mission.MissionDataSet.EmployéRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Mission.MissionDataSet.Mission_RecRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Mission.MissionDataSet.MissionsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Mission.MissionDataSet.ParticiperRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Mission.MissionDataSet.ServiceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Mission.MissionDataSet.UtilisateurRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Mission.MissionDataSet.AtelierRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Mission.MissionDataSet.Atelier_RecRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Mission.MissionDataSet.DirectionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Mission.MissionDataSet.EmployéRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Mission.MissionDataSet.Mission_RecRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Mission.MissionDataSet.MissionsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Mission.MissionDataSet.ParticiperRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Mission.MissionDataSet.ServiceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Mission.MissionDataSet.UtilisateurRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Mission.MissionDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Mission.MissionDataSetTableAdapters.AtelierTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Mission.MissionDataSetTableAdapters.Atelier_RecTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Mission.MissionDataSetTableAdapters.DirectionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Mission.MissionDataSetTableAdapters.EmployéTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Mission.MissionDataSetTableAdapters.Mission_RecTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Mission.MissionDataSetTableAdapters.MissionsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Mission.MissionDataSetTableAdapters.ParticiperTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Mission.MissionDataSetTableAdapters.ServiceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Mission.MissionDataSetTableAdapters.UtilisateurTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Mission.MissionDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Mission.MissionDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Mission.MissionDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Mission.MissionDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Mission.MissionDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Mission.MissionDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Mission.MissionDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Mission.MissionDataSetTableAdapters.TableAdapterManager.UpdateAll(Mission.MissionDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Mission.MissionDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Mission.MissionDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Mission.MissionDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
